@@ -8,5 +8,7 @@ Using this application, you can simply type in the asset tag/s you need and usin
   - Input asset tag/s and then hit "Generate .DOC"
   ![Alt Text](https://media.giphy.com/media/fV1ELr4ENx6EQoWUU3/giphy.gif)
  
+ 
+ 
   - Below is the generated Word doc which you can then print
-  ![Optional Text](../master/img/PMG-Labels-Word.PNG)
+  ![Optional Text](../master/img/PMG-Labels-Word.PNG width="40" height="40")
