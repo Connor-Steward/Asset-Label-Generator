@@ -1,9 +1,6 @@
 # What is Snipe-IT-Label-Generator?
 I was sick of having to manually lookup, add, edit and crop labels for our self-hosted SnipeIT inventory/assets system. Using this application, you can simply type in the asset tag/s you need and using the SnipeIT API it will get the relevant info for the tag, add it into a Word mailmerge and format everything correctly for you!
 
-# What is Snipe-IT? 
-- https://snipeitapp.com/
-- https://github.com/snipe/snipe-it
 
 # See it in action!
   - Input asset tag/s and then hit "Generate .DOC"
@@ -20,6 +17,11 @@ I was sick of having to manually lookup, add, edit and crop labels for our self-
   - Final product ready to stick on physical assets 
   
   ![Optional Text](../master/img/PMG-final-border.jpg)
+
+
+# What is Snipe-IT? 
+- https://snipeitapp.com/
+- https://github.com/snipe/snipe-it
 
 
 # What's needed?
