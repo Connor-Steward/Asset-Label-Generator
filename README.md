@@ -1,7 +1,8 @@
 # Snipe-IT-Label-Generator
 
 # What is Snipe IT Label printer
-I was sick of having to manually lookup, add, edit and crop labels for our self-hosted SnipeIT inventory/assets system (See: https://snipeitapp.com/). 
+I was sick of having to manually lookup, add, edit and crop labels for our self-hosted SnipeIT inventory/assets system 
+(See: https://snipeitapp.com/). 
 
 Using this application, you can simply type in the asset tag/s you need and using the SnipeIT API will get the relevant info for the tag, add it into a Word mailmerge and format everything correctly for you!
 
