@@ -11,4 +11,4 @@ Using this application, you can simply type in the asset tag/s you need and usin
  
  
   - Below is the generated Word doc which you can then print
-  ![Optional Text](../master/img/PMG-Labels-Word.PNG width="40" height="40")
+  ![Optional Text](../master/img/PMG-Labels-Word.PNG)
