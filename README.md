@@ -1,6 +1,4 @@
-# Snipe-IT-Label-Generator
-
-# What is Snipe IT Label printer
+# What is Snipe-IT-Label-Generator?
 I was sick of having to manually lookup, add, edit and crop labels for our self-hosted SnipeIT inventory/assets system 
 (See: https://snipeitapp.com/). 
 
