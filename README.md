@@ -19,4 +19,4 @@ I was sick of having to manually lookup, add, edit and crop labels for our self-
 
   - Final product ready to stick on physical assets 
   
-  ![Optional Text](../master/img/PMG-Final-border.jpg)
+  ![Optional Text](../master/img/PMG-final-border.jpg)
