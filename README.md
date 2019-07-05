@@ -8,7 +8,8 @@ Using this application, you can simply type in the asset tag/s you need and usin
   - Input asset tag/s and then hit "Generate .DOC"
   
   
-  - ![Alt Text](https://media.giphy.com/media/fV1ELr4ENx6EQoWUU3/giphy.gif)
+  ![Alt Text](https://media.giphy.com/media/fV1ELr4ENx6EQoWUU3/giphy.gif)
+ 
  
  
  
