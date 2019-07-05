@@ -14,3 +14,9 @@ I was sick of having to manually lookup, add, edit and crop labels for our self-
   - Below is the generated Word doc which you can then print on an avery label sheet
   
   ![Optional Text](../master/img/word_labels.png)
+
+
+
+  - Final product ready to stick on physical assets 
+  
+  ![Optional Text](../master/img/PMG-Final-border.png)
