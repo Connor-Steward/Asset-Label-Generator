@@ -10,5 +10,5 @@ Using this application, you can simply type in the asset tag/s you need and usin
  
  
  
-  - Below is the generated Word doc which you can then print
+  - Below is the generated Word doc which you can then print on an avery label sheet
   ![Optional Text](../master/img/PMG-Labels-Word-v2.png)
