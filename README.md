@@ -6,12 +6,9 @@ Using this application, you can simply type in the asset tag/s you need and usin
 
 # See it in action!
   - Input asset tag/s and then hit "Generate .DOC"
-  
-  
   ![Alt Text](https://media.giphy.com/media/fV1ELr4ENx6EQoWUU3/giphy.gif)
  
  
  
- 
-  - This is the output
-  ![Optional Text](../master/img/PMG-Labels-Word-v2.png)
+  - Below is the generated Word doc which you can then print on an avery label sheet
+  ![Optional Text](../master/img/PMG-Labels-Word.png)
